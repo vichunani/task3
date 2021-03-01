@@ -34,4 +34,4 @@ function strrev_arr($str)
 
 
 $result = revertCharacters("Привет! Как дела? Давненько не виделись.");
-echo $result; 
+echo $result; ("Тевирп! Как алед? Окьненвад ен ьсиледив."
